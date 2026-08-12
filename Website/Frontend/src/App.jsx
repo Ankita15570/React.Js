@@ -27,7 +27,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
-      {location.pathname === "/contact" && null}
+
       <footer className="footer-fixed">
         <p>© 2026 Patil Store | All Rights Reserved</p>
       </footer>
