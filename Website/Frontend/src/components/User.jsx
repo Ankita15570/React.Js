@@ -29,13 +29,13 @@ function User() {
           image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoIOQPL3VwbDrtdAyAXnCTULzepJzUuc6T4lPp-vX7A&s=10"
         />
         <ProfileCard
-          name="Priya Sharma"
+          name="Priya Jadhav"
           course="BSC Student"
           college="SGM College"
           image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoIOQPL3VwbDrtdAyAXnCTULzepJzUuc6T4lPp-vX7A&s=10"
         />
         <ProfileCard
-          name="Sneha Jadhav"
+          name="Pooja Patil"
           course="MBA Student"
           college="SGM University"
           image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoIOQPL3VwbDrtdAyAXnCTULzepJzUuc6T4lPp-vX7A&s=10"

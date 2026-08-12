@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app-wrapper">
       <header className="header">
-        <span className="logo">🛒 SGM Store</span>
+        <span className="logo">🛒 Patil Store</span>
         <nav>
           <Link to="/">Home</Link>
           <Link to="/about">About Us</Link>
@@ -29,7 +29,7 @@ function App() {
       </main>
       {location.pathname === "/contact" && null}
       <footer className="footer-fixed">
-        <p>© 2026 SGM College | All Rights Reserved</p>
+        <p>© 2026 Patil Store | All Rights Reserved</p>
       </footer>
     </div>
   );
