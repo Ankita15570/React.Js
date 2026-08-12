@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0fbff;
+  color: #1a2a35;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: #00bcd4;
+}
+
+a:hover {
+  color: #ff6f61;
+}
+
+h1, h2, h3 {
+  color: #0f2027;
+  margin: 0;
+}
