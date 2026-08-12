@@ -8,8 +8,18 @@ function Contact() {
       <div className="contact-form">
         <input type="text" placeholder="Your Name" />
         <input type="email" placeholder="Your Email" />
-        <textarea rows="4" placeholder="Your Message" />
-        <button className="buy-btn" onClick={() => alert("Message sent! ✅")}>Send Message</button>
+        <input type="tel" placeholder="Mobile Number" pattern="[0-9]{10}" />
+        <input type="text" placeholder="Address" />
+        <textarea rows="3" placeholder="Your Message" />
+        <button
+          className="buy-btn"
+          onClick={() => {
+            alert("Message sent! ✅");
+            window.location.reload();
+          }}
+        >
+          Send Message
+        </button>
       </div>
     </div>
   );

@@ -7,7 +7,7 @@ function User() {
     <div className="user-page">
       <div className="user-hero">
         <h2>👥 Our Members</h2>
-        <p>Meet the talented students of SGM College & University</p>
+        <p></p>
       </div>
       <div className="container">
         <ProfileCard
