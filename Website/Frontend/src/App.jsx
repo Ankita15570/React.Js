@@ -7,7 +7,7 @@ import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 
 function App() {
-  const location = useLocation();
+  // const location = useLocation();
   return (
     <div className="app-wrapper">
       <header className="header">

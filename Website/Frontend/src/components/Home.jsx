@@ -8,14 +8,14 @@ const products = [
   },
   {
     id: 2,
-    name: "Sneakers",
+    name: "Shoes",
     price: 999,
     image: "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?w=200",
     category: "Footwear",
   },
   {
     id: 3,
-    name: "Backpack",
+    name: "Bag",
     price: 799,
     image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200",
     category: "Bags",
